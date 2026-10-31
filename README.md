@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:080d18,45:142b45,100:ed8b00&text=JAN%20ZEUS%20MANSOMIENTO%20GUANGA&fontColor=ffffff&fontSize=65&fontAlignY=43&desc=ICT%20%7C%20SOFTWARE%20DEVELOPMENT%20%7C%20SYSTEMS&descSize=13&descAlignY=63&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:080d18,45:142b45,100:ed8b00&text=JAN%20ZEUS&fontColor=ffffff&fontSize=65&fontAlignY=43&desc=ICT%20%7C%20SOFTWARE%20DEVELOPMENT%20%7C%20SYSTEMS&descSize=13&descAlignY=63&animation=fadeIn" width="100%" />
 
 ### ICT STUDENT · ASPIRING SOFTWARE DEVELOPER AND NETWORK ENGINEER
 
