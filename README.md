@@ -1,22 +1,14 @@
-<!-- ========================================= -->
-<!--               JAN'S PROFILE              -->
-<!-- ========================================= -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:101820,50:142b45,100:ed8b00&text=JAN&fontColor=ffffff&fontSize=75&fontAlignY=45&desc=ASPIRING%20SOFTWARE%20DEVELOPER%20AND%20NETWORK%20ENGINEER&descSize=15&descAlignY=65&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:080d18,45:142b45,100:ed8b00&text=JAN%20ZEUS&fontColor=ffffff&fontSize=65&fontAlignY=43&desc=ICT%20%7C%20SOFTWARE%20DEVELOPMENT%20%7C%20SYSTEMS&descSize=13&descAlignY=63&animation=fadeIn" width="100%" />
 
-<br/>
+### ICT STUDENT · ASPIRING SOFTWARE DEVELOPER
 
-### `ICT STUDENT` · `JAVA DEVELOPER IN PROGRESS` · `PHILIPPINES 🇵🇭`
+*Learning by building. Understanding through experience.*
 
-*Learning by building. Improving through experience.*
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guangajanzeus-cmyk)
+[![GitHub](https://img.shields.io/badge/GitHub-guangajanzeus--cmyk-181717?style=for-the-badge&logo=github)](https://github.com/guangajanzeus-cmyk)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
-[![Profile Views](https://komarev.com/ghpvc/?username=guangajanzeus-cmyk&style=for-the-badge&color=orange)](https://github.com/guangajanzeus-cmyk)
+[![Location](https://img.shields.io/badge/Philippines-🇵🇭-blue?style=for-the-badge)](https://github.com/guangajanzeus-cmyk)
 
 </div>
 
@@ -27,28 +19,32 @@
 ```java
 public class Developer {
 
-    String name = "Jan";
+    String name = "Jan Zeus";
+    String username = "guangajanzeus-cmyk";
     String location = "Philippines";
-    String role = "ICT Student";
-    String focus = "Software Development";
+    String background = "ICT Student";
 
     String[] interests = {
-        "Java Programming",
-        "Object-Oriented Programming",
-        "Backend Development",
+        "Software Development",
         "Computer Systems",
-        "Networking"
+        "Linux & Virtualization",
+        "Networking",
+        "Backend Development"
     };
 
-    String currentGoal = "Build practical projects and keep learning.";
+    String currentFocus = "Java Development";
+
+    String goal = "Build, learn, and improve through experience.";
 }
 ```
 
-I'm an ICT student interested in programming, computer systems, and software development.
+I'm an ICT student with an interest in software development, computer systems, and IT infrastructure.
 
-I enjoy understanding how things work, solving technical problems, and building projects through hands-on experience.
+I enjoy exploring how computers work, configuring operating systems, troubleshooting hardware and software, and building applications.
 
-Currently focusing on Java, OOP, and developing my programming fundamentals.
+My experience includes programming, computer hardware, networking, Windows Server administration, and virtualization.
+
+Currently developing my Java programming skills through independent projects and hands-on practice.
 
 ---
 
@@ -56,44 +52,56 @@ Currently focusing on Java, OOP, and developing my programming fundamentals.
 
 <div align="center">
 
-### LANGUAGES
+### PROGRAMMING & WEB DEVELOPMENT
 
 <img src="https://skillicons.dev/icons?i=java,html,css" />
 
-### TOOLS & ENVIRONMENT
+### OPERATING SYSTEMS
 
-<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,windows" />
+<img src="https://skillicons.dev/icons?i=windows,linux,ubuntu" />
+
+### DEVELOPMENT TOOLS
+
+<img src="https://skillicons.dev/icons?i=git,github,idea,vscode" />
 
 </div>
 
-**Technical Knowledge**
+### SYSTEMS & INFRASTRUCTURE
 
-- Object-Oriented Programming
-- Java Swing GUI Development
-- Computer Hardware Assembly & Troubleshooting
-- Windows Server Administration
-- Networking Fundamentals
-- Virtualization with VMware
+![VMware](https://img.shields.io/badge/VMware-Virtualization-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-00599C?style=for-the-badge&logo=cisco&logoColor=white)
+
+### TECHNICAL SKILLS
+
+- **Programming:** Java, HTML, CSS, Object-Oriented Programming
+- **GUI Development:** Java Swing
+- **Operating Systems:** Windows, Linux
+- **Virtualization:** VMware and Virtual Machine Configuration
+- **Server Administration:** Windows Server 2019, Active Directory, DNS, DHCP, Group Policy
+- **Networking:** IP configuration, network troubleshooting, domain environments
+- **Hardware:** PC Assembly, BIOS Configuration, Hardware Troubleshooting
+- **Tools:** IntelliJ IDEA, Visual Studio Code, Git, GitHub
 
 ---
 
-## `03` / SELECTED PROJECTS
+## `03` / CURRENT PROJECT
 
 ### 🖥️ JAVA POINT OF SALE SYSTEM
 
-**Status:** `IN DEVELOPMENT`
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Status](https://img.shields.io/badge/Status-In_Development-orange?style=flat-square)
 
-A terminal-based Point of Sale system built with Java.
+Developing a terminal-based Point of Sale system using Java.
 
-**Current development focus:**
+**Development focus:**
 
 - Product catalog management
 - Object-Oriented Programming
 - ArrayList and data management
-- File handling and persistence
+- File handling and data persistence
 - CRUD operations
-
-> Building practical software while strengthening my understanding of Java.
+- Structured application design
 
 ---
 
@@ -116,22 +124,23 @@ A terminal-based Point of Sale system built with Java.
 ## `05` / CURRENTLY LEARNING
 
 - Java Development
-- Software Design & OOP
+- Advanced Object-Oriented Programming
 - Data Structures
 - GUI Development
 - File Handling
+- Software Design
 - Building practical software projects
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ed8b00,100:142b45&height=2&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ed8b00,100:142b45&height=3&section=footer" width="100%" />
 
-### "Great things are built one line of code at a time."
+### "Learning by building. Improving through experience."
 
 **THANK YOU FOR VISITING MY PROFILE.**
 
-🇵🇭 PHILIPPINES · ALWAYS LEARNING
+🇵🇭 PHILIPPINES
 
 </div>
