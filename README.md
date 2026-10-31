@@ -1,146 +1,67 @@
-<div align="center">
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:07111f,45:12345a,100:ed8b00&text=JAN%20ZEUS&fontColor=ffffff&fontSize=68&fontAlignY=42&desc=ICT%20STUDENT%20%7C%20JAVA%20DEVELOPER%20IN%20PROGRESS&descSize=14&descAlignY=63&animation=fadeIn" width="100%" alt="Jan Zeus animated header" /><img src="./jan-zeus-portrait.png" width="210" alt="Portrait of Jan Zeus" />
+<a href="https://github.com/guangajanzeus-cmyk">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=650&lines=ICT+STUDENT;BUILDING+WITH+JAVA;LEARNING+OOP+ONE+CLASS+AT+A+TIME;CURIOUS+ABOUT+SOFTWARE+%26+IT+SYSTEMS" alt="Animated introduction" />
+</a>
+<img src="https://img.shields.io/badge/FOCUS-Java%20%26%20OOP-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java and OOP focus" />
+<img src="https://img.shields.io/badge/BASED_IN-Philippines-2563EB?style=for-the-badge" alt="Based in the Philippines" />
+<img src="https://img.shields.io/badge/STATUS-Always%20Learning-16A34A?style=for-the-badge" alt="Always learning" />
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=210&color=0:080d18,45:142b45,100:ed8b00&text=JAN%20ZEUS&fontColor=ffffff&fontSize=65&fontAlignY=43&desc=ICT%20%7C%20SOFTWARE%20DEVELOPMENT%20%7C%20IT%20SPECIALIST&descSize=13&descAlignY=63&animation=fadeIn" width="100%" />
 
-### ICT STUDENT · ASPIRING SOFTWARE DEVELOPER AND NETWORK ENGINEER
-
-*Learning by building. Understanding through experience.*
-
-[![GitHub](https://img.shields.io/badge/GitHub-guangajanzeus--cmyk-181717?style=for-the-badge&logo=github)](https://github.com/guangajanzeus-cmyk)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
-[![Location](https://img.shields.io/badge/Philippines-🇵🇭-blue?style=for-the-badge)](https://github.com/guangajanzeus-cmyk)
-
-</div>
-
----
-
-## `01` / ABOUT ME
-
-```java
-public class Developer {
-
-    String name = "Jan Zeus";
-    String username = "guangajanzeus-cmyk";
-    String location = "Philippines";
-    String background = "ICT Student";
+GitHub · Repositories
+</div>01 — About me
+public class JanZeus {
+    String role = "ICT Student";
+    String currentFocus = "Java development";
+    String learningStyle = "Build, test, debug, repeat";
 
     String[] interests = {
-        "Software Development",
-        "Computer Systems",
-        "Linux & Virtualization",
+        "Software development",
+        "Computer systems",
         "Networking",
-        "Backend Development"
+        "Windows Server",
+        "Virtualization"
     };
-
-    String currentFocus = "Java Development";
-
-    String goal = "Build, learn, and improve through experience.";
 }
-```
+I'm an ICT student interested in how software and computer systems work. I enjoy learning by building projects, troubleshooting problems, and understanding the reasoning behind the code—not just copying it.
 
-I'm an ICT student with an interest in software development, computer systems, and IT infrastructure.
+Right now, I'm developing my Java skills through independent projects and hands-on practice.
+02 — Tech stack
+<div align="center">Programming & web
+<img src="https://skillicons.dev/icons?i=java,html,css&theme=dark" alt="Java, HTML and CSS icons" />
+Tools & platforms
+<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,windows,linux&theme=dark" alt="Git, GitHub, IntelliJ IDEA, VS Code, Windows and Linux icons" /></div>
+IT & infrastructure experience
+- Windows Server 2019 fundamentals
+- Active Directory, DNS, DHCP and Group Policy
+- IP configuration and network troubleshooting
+- VMware and virtual machine configuration
+- PC hardware, BIOS configuration and troubleshooting
+03 — Featured project
+<div align="center">🧾 Java Point of Sale System
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/Console%20Application-1f6feb?style=flat-square" alt="Console application" />
+<img src="https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square" alt="In development" /></div>A terminal-based Point of Sale application I'm building to practise object-oriented programming and practical data management.
 
-I enjoy exploring how computers work, configuring operating systems, troubleshooting hardware and software, and building applications.
+Current development areas
+- Product catalog loaded from text files
+- Product search by ID
+- Object-oriented product modelling
+- ArrayList-based data management
+- File handling and CRUD operations
+Planned direction
+- Customer cart and cart items
+- Checkout and stock updates
+- Transaction records and receipt output
+This project is a work in progress. Features will be added as they're implemented and tested.
 
-My experience includes programming, computer hardware, networking, Windows Server administration, and virtualization.
-
-Currently developing my Java programming skills through independent projects and hands-on practice.
-
----
-
-## `02` / TECHNOLOGY STACK
-
-<div align="center">
-
-### PROGRAMMING & WEB DEVELOPMENT
-
-<img src="https://skillicons.dev/icons?i=java,html,css" />
-
-### OPERATING SYSTEMS
-
-<img src="https://skillicons.dev/icons?i=windows,linux,ubuntu" />
-
-### DEVELOPMENT TOOLS
-
-<img src="https://skillicons.dev/icons?i=git,github,idea,vscode" />
-
-</div>
-
-### SYSTEMS & INFRASTRUCTURE
-
-![VMware](https://img.shields.io/badge/VMware-Virtualization-607078?style=for-the-badge&logo=vmware&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-00599C?style=for-the-badge&logo=cisco&logoColor=white)
-
-### TECHNICAL SKILLS
-
-- **Programming:** Java, HTML, CSS, Object-Oriented Programming
-- **GUI Development:** Java Swing
-- **Operating Systems:** Windows, Linux
-- **Virtualization:** VMware and Virtual Machine Configuration
-- **Server Administration:** Windows Server 2019, Active Directory, DNS, DHCP, Group Policy
-- **Networking:** IP configuration, network troubleshooting, domain environments
-- **Hardware:** PC Assembly, BIOS Configuration, Hardware Troubleshooting
-- **Tools:** IntelliJ IDEA, Visual Studio Code, Git, GitHub
-
----
-
-## `03` / CURRENT PROJECT
-
-### 🖥️ JAVA POINT OF SALE SYSTEM
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Status](https://img.shields.io/badge/Status-In_Development-orange?style=flat-square)
-
-Developing a terminal-based Point of Sale system using Java.
-
-**Development focus:**
-
-- Product catalog management
-- Object-Oriented Programming
-- ArrayList and data management
+04 — GitHub activity
+<div align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=guangajanzeus-cmyk&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guangajanzeus-cmyk&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=guangajanzeus-cmyk&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" /></div>05 — Currently learning
+- Java and object-oriented programming
 - File handling and data persistence
-- CRUD operations
-- Structured application design
-
----
-
-## `04` / GITHUB STATISTICS
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=guangajanzeus-cmyk&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guangajanzeus-cmyk&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=guangajanzeus-cmyk&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## `05` / CURRENTLY LEARNING
-
-- Java Development
-- Advanced Object-Oriented Programming
-- Data Structures
-- GUI Development
-- File Handling
-- Software Design
+- GUI development with Java Swing
+- Writing maintainable, organized code
 - Building practical software projects
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ed8b00,100:142b45&height=3&section=footer" width="100%" />
-
-### "Learning by building. Improving through experience."
-
-**THANK YOU FOR VISITING MY PROFILE.**
-
-🇵🇭 PHILIPPINES
-
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:ed8b00,100:12345a&section=footer&text=BUILD.%20BREAK.%20LEARN.%20REPEAT.&fontColor=ffffff&fontSize=22&animation=fadeIn" width="100%" alt="Animated footer" />Learning by building. Improving through experience.
 </div>
