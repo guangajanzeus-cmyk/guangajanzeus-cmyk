@@ -1,8 +1,8 @@
 # Hi, I'm Jan 👋
 
-### ICT Student | Aspiring Software Developer
+### ICT Student | Aspiring Software Developer and Network Engineer
 
-I'm an ICT student from the Philippines, currently learning Java and exploring software development.
+I'm an ICT 12 student from the Philippines, currently learning Java and exploring software development.
 
 I enjoy building projects, understanding how systems work, solving technical problems, and learning new technologies.
 
