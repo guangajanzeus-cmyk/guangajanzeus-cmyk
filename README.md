@@ -157,9 +157,9 @@ alt="GitHub contribution streak"/>
 <div align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=guangajanzeus-cmyk&bg_color=0d1117&color=60a5fa&line=ed8b00&point=ffffff&area=true&hide_border=true"
+src="https://ghchart.rshah.org/60a5fa/guangajanzeus-cmyk"
 width="100%"
-alt="GitHub contribution activity graph"/>
+alt="GitHub contribution activity chart"/>
 
 </div>
 
@@ -168,26 +168,10 @@ alt="GitHub contribution activity graph"/>
 <div align="center">
 
 <a href="https://github.com/guangajanzeus-cmyk">
-View my GitHub profile and achievements
+<img src="https://img.shields.io/badge/VIEW-GITHUB%20PROFILE-12345a?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub profile"/>
 </a>
 
 </div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=guangajanzeus-cmyk&bg_color=0d1117&color=60a5fa&line=ed8b00&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
-
-</div>
-
-## 07 — GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=guangajanzeus-cmyk&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" alt="GitHub profile trophies"/>
-
-</div>
-
-## 08 — Currently Learning
 
 - Java and object-oriented programming
 - File handling and data persistence
