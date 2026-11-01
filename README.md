@@ -136,17 +136,42 @@ This project is continuously evolving as I learn and implement new concepts.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=guangajanzeus-cmyk&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub statistics"/>
+<img height="180"
+src="https://github-stats-extended.vercel.app/api?username=guangajanzeus-cmyk&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github"
+alt="GitHub statistics"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guangajanzeus-cmyk&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages"/>
+<img height="180"
+src="https://github-stats-extended.vercel.app/api/top-langs/?username=guangajanzeus-cmyk&layout=compact&hide_border=true&theme=tokyonight"
+alt="Most used languages"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=guangajanzeus-cmyk&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+<img
+src="https://streak-stats.demolab.com/?user=guangajanzeus-cmyk&theme=tokyonight&hide_border=true"
+alt="GitHub contribution streak"/>
 
 </div>
 
 ## 06 — Contribution Activity
+
+<div align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=guangajanzeus-cmyk&bg_color=0d1117&color=60a5fa&line=ed8b00&point=ffffff&area=true&hide_border=true"
+width="100%"
+alt="GitHub contribution activity graph"/>
+
+</div>
+
+## 07 — GitHub Achievements
+
+<div align="center">
+
+<a href="https://github.com/guangajanzeus-cmyk">
+View my GitHub profile and achievements
+</a>
+
+</div>
 
 <div align="center">
 
