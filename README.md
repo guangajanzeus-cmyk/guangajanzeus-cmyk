@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=800&color=60A5FA&center=true&vCenter=true&width=800&height=55&lines=IT+SPECIALIST+IN+PROGRESS;NETWORKING+%7C+SYSTEMS+%7C+INFRASTRUCTURE;JAVA+DEVELOPER+IN+PROGRESS;BUILDING+SOFTWARE+ONE+PROJECT+AT+A+TIME;LEARN.+BUILD.+TROUBLESHOOT.+REPEAT." alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=800&color=60A5FA&center=true&vCenter=true&width=800&height=55&lines=IT+SPECIALIST;NETWORKING+%7C+SYSTEMS+%7C+INFRASTRUCTURE;JAVA+DEVELOPER+IN+PROGRESS;BUILDING+SOFTWARE+ONE+PROJECT+AT+A+TIME;LEARN.+BUILD.+TROUBLESHOOT.+REPEAT." alt="Animated introduction"/>
 
 <br/>
 
