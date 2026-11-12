@@ -21,7 +21,7 @@
 
 ---
 
-## 👋 About Me
+##  About Me
 
 ```java
 public class JanZeus {
@@ -51,18 +51,18 @@ My goal is to grow into a well-rounded IT professional with strong skills in bot
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <div align="center">
 
-| 🧾 Java Point of Sale System | 🧮 Java Calculator |
+|  Java Point of Sale System |  Java Calculator |
 |:---|:---|
 | A terminal-based POS application built to practise OOP and data management in Java. | A calculator application built in Java to practise program logic and clean code structure. |
 | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![OOP](https://img.shields.io/badge/OOP-2563EB?style=flat-square) ![Status](https://img.shields.io/badge/Status-Completed-16a34a?style=flat-square) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Status](https://img.shields.io/badge/Status-Completed-16a34a?style=flat-square) |
 
 </div>
 
-### 🧾 Point of Sale System
+###  Point of Sale System
 
 **Features**
 
@@ -77,11 +77,11 @@ My goal is to grow into a well-rounded IT professional with strong skills in bot
 
 **What I practised:** object-oriented design, file I/O, data persistence, and organising a project into clear classes.
 
-### 🧮 Calculator
+###  Calculator
 
 A Java calculator project that strengthened my understanding of control flow, input handling, and structuring code so it stays readable and easy to extend.
 
-👉 [See all my repositories](https://github.com/guangajanzeus-cmyk?tab=repositories)
+ [See all my repositories](https://github.com/guangajanzeus-cmyk?tab=repositories)
 
 ---
 
@@ -127,7 +127,7 @@ A Java calculator project that strengthened my understanding of control flow, in
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -146,7 +146,7 @@ A Java calculator project that strengthened my understanding of control flow, in
 
 ---
 
-## 🎯 What I'm Working On Next
+##  What I'm Working On Next
 
 - Deepening my Java and OOP skills with bigger, more structured projects
 - Exploring GUI development with Java Swing
