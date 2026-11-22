@@ -1,6 +1,6 @@
-# Hi, I'm Jan Zeus 👋
+# Hi, I'm Jan Zeus 
 
-**ICT student · Java developer in progress · Philippines**
+**ICT student · Software and Backend developer in progress · Philippines · IT Specialist**
 
 I enjoy both sides of IT: keeping systems and networks running, and building software that solves real problems. I learn best by building projects and troubleshooting things until they work.
 
