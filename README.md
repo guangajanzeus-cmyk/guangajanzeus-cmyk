@@ -19,7 +19,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 ```java
 public class JanZeus {
@@ -49,11 +49,11 @@ I'm an ICT student who loves both sides of IT: keeping systems and networks runn
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <div align="center">
 
-| 🛒 Java Point of Sale System | 🧮 Java Calculator | 🏦 Bank Account Simulator |
+|  Java Point of Sale System |  Java Calculator |  Bank Account Simulator |
 |:---|:---|:---|
 | Terminal-based POS built to practise OOP, file handling and data management. | Calculator built to practise program logic and clean, readable code. | Terminal-based banking simulation built to practise OOP and program logic. |
 | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![OOP](https://img.shields.io/badge/OOP-2563EB?style=flat-square) ![Status](https://img.shields.io/badge/Status-Completed-16a34a?style=flat-square) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Status](https://img.shields.io/badge/Status-Completed-16a34a?style=flat-square) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Status](https://img.shields.io/badge/Status-Completed-16a34a?style=flat-square) |
@@ -73,19 +73,19 @@ I'm an ICT student who loves both sides of IT: keeping systems and networks runn
 
 **What I practised:** object-oriented design, file I/O, data persistence, and organising a project into clear classes.
 
-### 🧮 Calculator
+###  Calculator
 
 A Java calculator that strengthened my understanding of control flow, input handling, and structuring code so it stays readable and easy to extend.
 
-### 🏦 Bank Account Simulator
+###  Bank Account Simulator
 
 A terminal-based Java project for practising OOP and program logic with account-style operations.
 
-👉 [See all my repositories](https://github.com/guangajanzeus-cmyk?tab=repositories)
+ [See all my repositories](https://github.com/guangajanzeus-cmyk?tab=repositories)
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -131,7 +131,7 @@ A terminal-based Java project for practising OOP and program logic with account-
 
 ---
 
-## 🎯 What I'm Working On Next
+##  What I'm Working On Next
 
 - 🔹 Deepening my Java and OOP skills with bigger, more structured projects
 - 🔹 Connecting Java to **MySQL** using JDBC for real database-backed apps
@@ -141,7 +141,7 @@ A terminal-based Java project for practising OOP and program logic with account-
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
