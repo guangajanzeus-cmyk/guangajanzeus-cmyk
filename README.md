@@ -48,7 +48,7 @@ I enjoy both sides of IT: keeping systems and networks running, and building sof
 
 <p>
   <img src="https://img.shields.io/badge/TESDA-CSS_NC_II-1E88E5?style=for-the-badge" alt="CSS NC II" />
-  <img src="https://img.shields.io/badge/TESDA-COC_3-43A047?style=for-the-badge" alt="COC 3" />
+  <img src="https://img.shields.io/badge/TESDA-COC_3-43A047?style=for-the-badge" alt="COC 1 - COC 3" />
 </p>
 
 ---
